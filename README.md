@@ -18,5 +18,7 @@
 ## 🧠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,oracle,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,git,github,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55px" />
 </p>
+

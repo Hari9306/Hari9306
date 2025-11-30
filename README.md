@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=gradient&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+My+GitHub+Profile!;I'm+Hari+Veera+Venkat+Veera!;I+💖+Coding+and+Problem+Solving!;Always+Learning+New+Tech!"/>
+</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hari9306&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views" />
+</p>
 
-<!--
-**Hari9306/Hari9306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👋 About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about **software development**, **competitive programming**, and **data-driven innovation**.  
+🎯 Skilled in **C++, Python, Oracle SQL, and DSA** — currently exploring **Web Development** & **AI tools**.  
+💡 Motto: *Discipline • Determination • Dedication.*
+
+---
+
+## 🧠 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,sql,git,github,vscode" />
+</p>

@@ -36,22 +36,6 @@
 
 ---
 
-## 🧩 Projects / Portfolio
-
-<p align="center">
-  <a href="https://github.com/Hari9306/Project1" target="_blank">
-    <img src="https://img.shields.io/badge/Project1-View-ff69b4?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Hari9306/Project2" target="_blank">
-    <img src="https://img.shields.io/badge/Project2-View-ff69b4?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Hari9306/Project3" target="_blank">
-    <img src="https://img.shields.io/badge/Project3-View-ff69b4?style=for-the-badge" />
-  </a>
-</p>
-
----
-
 ## 🧮 Coding Stats
 
 <p align="center">

@@ -60,9 +60,9 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img width="390" height="150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Hariveeravenkat&count_private=true&theme=react&border_radius=10" alt="GitHub Streak"/>
+  <img width="390" height="150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Hari9306&count_private=true&theme=react&border_radius=10" alt="GitHub Streak"/>
 
-  <img width="390" height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hariveeravenkat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+  <img width="390" height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hari9306&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
 </p>
 
 ---

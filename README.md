@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=gradient&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+My+GitHub+Profile!;I'm+Hari+Veera+Venkat+Veera!;I+💖+Coding+and+Problem+Solving!;Always+Learning+New+Tech!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=gradient&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+My+GitHub+Profile!;I'm+Hari+Veera+Venkat!;I+💖+Coding+and+Problem+Solving!;Always+Learning+New+Tech!"/>
 </h1>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hari9306&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views" />
 </p>
@@ -9,8 +10,8 @@
 
 ## 👋 About Me 
 
-🚀 Passionate about **software development**, **competitive programming**, and **data-driven innovation**.  
-🎯 Skilled in **C++, Python, Oracle SQL, and DSA** — currently exploring **Web Development** & **AI tools**.  
+🚀 Passionate **Software Developer**, **Competitive Programmer**, and **Tech Explorer**.  
+🎯 Skilled in **C++, Python, Oracle SQL, DSA**, currently learning **Web Development & AI Tools**.  
 💡 Motto: *Discipline • Determination • Dedication.*
 
 ---
@@ -35,7 +36,23 @@
 
 ---
 
-## 🧮 Live Coding Stats
+## 🧩 Projects / Portfolio
+
+<p align="center">
+  <a href="https://github.com/Hari9306/Project1" target="_blank">
+    <img src="https://img.shields.io/badge/Project1-View-ff69b4?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Hari9306/Project2" target="_blank">
+    <img src="https://img.shields.io/badge/Project2-View-ff69b4?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Hari9306/Project3" target="_blank">
+    <img src="https://img.shields.io/badge/Project3-View-ff69b4?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 🧮 Coding Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Hariveeravenkat?theme=unicorn&font=Righteous&ext=contest&animation=true" height="265" alt="LeetCode Stats"/>
@@ -51,18 +68,41 @@
   </a>
 
   <a href="https://auth.geeksforgeeks.org/user/hariveetn6x" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-hariveetn6x-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-hariveetn6x-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ⚡ GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img width="390" height="150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Hari9306&count_private=true&theme=react&border_radius=10" alt="GitHub Streak"/>
 
   <img width="390" height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hari9306&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hari9306&theme=react" />
+</p>
+
+---
+
+## 🎯 Goals & Learning
+
+- 🌱 Currently learning: **Full Stack Web Development**, **AI & Machine Learning**  
+- 🎯 Short-term Goal: Solve **100+ LeetCode problems in 2025**  
+- 💡 Long-term Goal: Build **innovative software projects** impacting real-world problems  
+
+---
+
+## 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/100+_LeetCode_Problems-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Codeforces-Rating-1F8ACB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Top_Contributor_GFG-0F9D58?style=for-the-badge" />
 </p>
 
 ---
@@ -112,7 +152,3 @@
 </h3>
 
 ⭐ *"Turning Ideas into Code, and Code into Impact."* 🚀
-
-
-
-

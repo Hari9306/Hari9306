@@ -22,12 +22,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55px" />
 </p>
 
+<div align="center">
+
 | Category | Tools / Languages |
-|---|---|
+|---------|--------------------|
 | **Languages** | Python • C++ • C |
 | **Web / UI** | HTML5 • CSS3 |
 | **Database** | Oracle SQL |
 | **Tools** | Git • GitHub • VS Code |
+
+</div>
 
 ---
 

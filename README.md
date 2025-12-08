@@ -74,9 +74,6 @@
 
 ---
 
-![GitHub Snake Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hari9306&theme=green-navy&hide_border=true)
-
-
 ## 🎯 Goals & Learning
 
 - 🌱 Currently learning: **Full Stack Web Development**, **AI & Machine Learning**  

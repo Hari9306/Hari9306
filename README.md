@@ -74,9 +74,7 @@
 
 ---
 
-![3D GitHub Streak](https://ghchart.rshah.org/ff0000/Hari9306)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hari9306&theme=red-visual)
-
+![GitHub Snake Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hari9306&theme=green-navy&hide_border=true)
 
 
 ## 🎯 Goals & Learning

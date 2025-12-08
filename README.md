@@ -6,6 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=Hari9306&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hari9306&label=Profile%20views&color=0e75b6&style=flat" alt="hari9306" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hari9306" alt="hari9306" /></a> </p>
+
 ---
 
 ## 👋 About Me 
@@ -136,22 +140,8 @@
 </h3>
 
 ⭐ *"Turning Ideas into Code, and Code into Impact."* 🚀
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hari9306&label=Profile%20views&color=0e75b6&style=flat" alt="hari9306" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hari9306" alt="hari9306" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari9306&show_icons=true&locale=en&layout=compact" alt="hari9306" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hari9306&show_icons=true&locale=en" alt="hari9306" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hari9306&" alt="hari9306" /></p>
 

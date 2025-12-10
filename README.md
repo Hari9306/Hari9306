@@ -7,10 +7,7 @@
 </p>
 
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hari9306" alt="GitHub Profile Trophies">
-</div>
-
+https://github-profile-trophy.vercel.app/?username=Hari9306&theme=onedark
 
 ---
 
